@@ -14,4 +14,4 @@ Comment Likes: Tracking likes on individual comments.
 Hashtags: Managing hashtags that users follow and use.
 Bookmarks: Allowing users to bookmark posts.
 
-It demonstrates the clear connections and interactions between various social media activities. My approach aims to provide a straightforward and accurate representation of  relationships within a social media platform, ensuring an effective integration with the frontend.
+It demonstrates clear connections and interactions between various social media activities. My approach aims to provide a straightforward and accurate representation of  relationships within a social media platform, ensuring an effective integration with the frontend.
