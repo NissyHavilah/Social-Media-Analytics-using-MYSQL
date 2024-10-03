@@ -1,4 +1,4 @@
-# Social Media Database Project
+# Social Media Analytics
 
 Project Overview
 
